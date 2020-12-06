@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Thomas Seleiro"
-  avatar           : "files/lisbon.jpg"
+  avatar           : "lisbon.jpg"
   bio              : "1st year Applied Mathematics PhD student at the University of Manchester"
   location         : "London, UK"
   employer         :
